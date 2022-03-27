@@ -1,0 +1,37 @@
+img {
+  float: left;
+ }
+
+ .important {
+  color: rgb(0, 89, 255);
+}
+ .highlight {
+  color: rgb(20, 123, 220);
+}
+img {
+  float: left;
+}
+body {
+  background-color: rgb(161, 219, 107);
+}
+#picture {
+  width: 10%;
+  float: left;
+  border: solid;
+  border-color: grey beige white grey;
+}
+.my-class {
+  margin: 1px;
+  width: 10%;
+  border: 10px solid green;
+  padding: 20px;
+  background-color: rgb(144, 198, 235);
+}
+#favorite-project {
+  margin: 1px;
+  border: 10px solid green;
+  border-color: #5179ba;
+  width: 10%;
+  padding: 20px;
+  background-color: rgb(144, 198, 235);
+}
