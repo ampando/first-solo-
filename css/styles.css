@@ -1,11 +1,11 @@
 img {
   float: left;
- }
+}
 
- .important {
+.important {
   color: rgb(0, 89, 255);
 }
- .highlight {
+.highlight {
   color: rgb(20, 123, 220);
 }
 img {
@@ -22,7 +22,7 @@ body {
 }
 .my-class {
   margin: 1px;
-  width: 10%;
+  width: 15%;
   border: 10px solid green;
   padding: 20px;
   background-color: rgb(144, 198, 235);
