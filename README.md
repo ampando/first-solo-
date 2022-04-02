@@ -15,8 +15,8 @@ _This is my first portfolio landing page, that shares a little information about
 ## Setup/Installation Requirements
 
 * open browser
-* use https://github.com/ampando/first-solo-.git to view page 
-
+* drag and drop the repository onto your computer
+* use link https://ampando.github.io/first-solo-/ to view page 
 
 ## Known Bugs
 
