@@ -1,3 +1,5 @@
+This is my first independent project and portfolio landing page. I used Html and Bootstrap styling to build the page and share a little about me.  
+
 # _Independent Project_
 
 #### By _**Adrienne Matosich**_
@@ -7,10 +9,6 @@
 * GIT
 * CSS
 * HTML
-
-## Description
-
-_This is my first portfolio landing page, that shares a little information about me. I attempted to use css styling to make the page look as best as I could. 
 
 ## Setup/Installation Requirements
 
